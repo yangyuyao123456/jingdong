@@ -16,7 +16,7 @@
           scope="prototype">
         <property name="patterns">
             <list>
-                <value>com.yyy.student.mapper</value>
+                <value>com.yyy.jingdong.mapper</value>
             </list>
         </property>
     </bean>
